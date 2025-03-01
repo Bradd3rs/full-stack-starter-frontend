@@ -18,7 +18,7 @@ Hey there, awesome developer! 👋 Welcome to this super slick Next.js frontend 
 
 ```bash
 # Clone this beauty
-git clone <repository-url>
+git clone https://github.com/Bradd3rs/full-stack-starter-frontend
 cd full-stack-starter-frontend
 
 # Install the goodies
