@@ -46,7 +46,7 @@ Now open [http://localhost:3000](http://localhost:3000) and marvel at your creat
 
 ## 🤝 Playing Nice with Your FastAPI Backend
 
-This frontend is designed to work seamlessly with the [Full Stack Starter Backend](https://github.com/Bradd3rs/full-stack-starter-backend).
+This frontend is designed to work seamlessly with the [full-stack-starter-backend](https://github.com/Bradd3rs/full-stack-starter-backend).
 
 For setup instructions and more details, please visit the backend repository. Once you have the backend running, your API will be available at http://localhost:8000.
 
